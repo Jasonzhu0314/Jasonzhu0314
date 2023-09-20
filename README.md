@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning cutlass && cuda for deeplearning inference optimization
+- 🔭 I’m currently working on deep learning deployment
+- 🌱 I’m currently learning cutlass && cuda for deep learning inference optimization
 <!--
 **Jasonzhu0314/Jasonzhu0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
