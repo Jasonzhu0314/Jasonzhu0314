@@ -48,12 +48,6 @@
 - Historical computer vision pipeline acceleration work
 - Tech: C++, PyTorch, Model Preprocessing & Inference
 
-### 3. cuda_coding
-> GPU programming & CUDA kernel learning
-
-- Basic CUDA & high-performance computing practice
-- Tech: CUDA C++, CUTLASS
-
 ---
 
 ## ✨ About Me
