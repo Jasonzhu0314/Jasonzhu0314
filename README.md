@@ -3,7 +3,12 @@
 ### LLM Agent Developer | Multi-Modal AI | Deep Learning Engineer
 
 
-<b>Multi-Agent · RAG · Agent · AI-Platform (Agent)</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Agent-58A6FF?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/RAG-7EE787?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Agent-FFA657?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/AI--Platform%20(Agent)-D2A8FF?style=flat-square" />
+</p>
 
 - 🔭 Currently focused on researching & building production-ready LLM agents and multi-agent systems
 - 🔭 Background: Computer Vision deep learning algorithm development (BUPT)
