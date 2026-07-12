@@ -4,10 +4,10 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent-58A6FF?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/RAG-7EE787?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/Agent-FFA657?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/AI--Platform%20(Agent)-D2A8FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent-58A6FF?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/RAG-7EE787?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/Agent-FFA657?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/AI--Platform%20(Agent)-D2A8FF?style=flat" />
 </p>
 
 - 🔭 Currently focused on researching & building production-ready LLM agents and multi-agent systems
