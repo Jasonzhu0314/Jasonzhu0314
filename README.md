@@ -1,6 +1,6 @@
 ### Hi, I'm Jason Zhu 🤖
 
-### LLM Agent Developer | Multi-Modal AI | Deep Learning Engineer
+### LLM Agent Developer | CV&NLP 应用开发 | Deep Learning Engineer | AI Platform
 
 
 <p align="center">
