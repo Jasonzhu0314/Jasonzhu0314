@@ -4,10 +4,10 @@
 
 
 <p align="center">
-  <span style="background-color: #58A6FF; color: white; padding: 6px 16px; border-radius: 20px; font-size: 15px; font-weight: 500;">Multi-Agent</span>&nbsp;
-  <span style="background-color: #7EE787; color: #0D1117; padding: 6px 16px; border-radius: 20px; font-size: 15px; font-weight: 500;">RAG</span>&nbsp;
-  <span style="background-color: #FFA657; color: #0D1117; padding: 6px 16px; border-radius: 20px; font-size: 15px; font-weight: 500;">Agent</span>&nbsp;
-  <span style="background-color: #D2A8FF; color: #0D1117; padding: 6px 16px; border-radius: 20px; font-size: 15px; font-weight: 500;">AI-Platform (Agent)</span>
+  <img src="https://img.shields.io/badge/Multi--Agent-58A6FF?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/RAG-7EE787?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/Agent-FFA657?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/AI--Platform%20(Agent)-D2A8FF?style=for-the-badge" />
 </p>
 
 - 🔭 Currently focused on researching & building production-ready LLM agents and multi-agent systems
