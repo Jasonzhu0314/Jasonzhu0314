@@ -18,8 +18,19 @@
 ## 🛠️ Tech Stack
 
 ### LLM & Agent Development (Main)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
+![Function Calling](https://img.shields.io/badge/Function_Calling-3776AB?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Eval-8B5CF6?style=flat)
 
 ### CV & Basic Model Deployment (Secondary)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
