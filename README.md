@@ -2,9 +2,6 @@
 
 ### LLM Agent Developer | Multi-Modal AI | Deep Learning Engineer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=56B6C2&center=true&vCenter=true&width=600&height=50&lines=Large+Model+Intelligent+Agents;Multi-Agent+%26+RAG+Systems;Multi-Modal+AI+Research" />
-</p>
 
 - 🔭 Currently focused on researching & building production-ready LLM agents and multi-agent systems
 - 🔭 Background: Computer Vision deep learning algorithm development (BUPT)
